@@ -6,7 +6,9 @@ import ReactDOM from "react-dom";
 import "../styles/index.css";
 
 //import your own components
-import Home from "./component/home.jsx";
+//import SecondsCounter from "./component/counter.js";
+import Timer from "./component/counterv2.js";
 
 //render your react application
-ReactDOM.render(<Home />, document.querySelector("#app"));
+//ReactDOM.render(<SecondsCounter />, document.querySelector("#app"));
+ReactDOM.render(<Timer />, document.querySelector("#app"));
