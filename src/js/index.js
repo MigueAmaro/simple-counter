@@ -7,7 +7,7 @@ import "../styles/index.css";
 
 //import your own components
 //import SecondsCounter from "./component/counter.js";
-import Timer from "./component/counterv2.js";
+import Timer from "./component/counter.js";
 
 //render your react application
 //ReactDOM.render(<SecondsCounter />, document.querySelector("#app"));

@@ -10,7 +10,7 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
-/*#app{
+#app{
     background: black;
     display:flex;
     margin: auto;
@@ -31,4 +31,4 @@
     border-width: 5px;
     border-color: #151516;
 
-}*/
+}
